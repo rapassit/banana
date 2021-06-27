@@ -5,5 +5,6 @@ int main() {
     std::cout << std::endl; 
     cout << "by rapassit";
     std::cout << std::endl; 
+    cout << "my first c++";
     return 0;
 }
