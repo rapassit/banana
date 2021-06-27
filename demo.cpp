@@ -8,5 +8,7 @@ int main() {
     cout << "my first c++";
     std::cout << std::endl; 
     cout << "this is sample vsc and c++";
+    std::cout << std::endl; 
+    cout << "how to synce with github";
     return 0;
 }
