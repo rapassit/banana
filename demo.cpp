@@ -6,5 +6,6 @@ int main() {
     cout << "by rapassit";
     std::cout << std::endl; 
     cout << "my first c++";
+    cout << "this is sample vsc and c++"
     return 0;
 }
